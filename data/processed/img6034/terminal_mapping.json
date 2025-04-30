@@ -1,0 +1,28 @@
+{
+  "M1": {
+    "gate": "net_1",
+    "drain": "net_2",
+    "source": "net_2"
+  },
+  "M2": {
+    "gate": "net_6",
+    "drain": "net_9",
+    "source": "net_9"
+  },
+  "M3": {
+    "gate": "net_6",
+    "drain": "net_1",
+    "source": "net_1"
+  },
+  "M4": {
+    "gate": "net_15",
+    "drain": "net_0",
+    "source": "net_0"
+  },
+  "G5": {
+    "T1": "net_23"
+  },
+  "G6": {
+    "T1": "net_20"
+  }
+}

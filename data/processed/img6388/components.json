@@ -1,0 +1,83 @@
+[
+    {
+        "label": "MOSFET",
+        "bbox": [
+            252,
+            149,
+            307,
+            183
+        ]
+    },
+    {
+        "label": "Inductor",
+        "bbox": [
+            96,
+            74,
+            120,
+            118
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            95,
+            149,
+            149,
+            183
+        ]
+    },
+    {
+        "label": "Inductor",
+        "bbox": [
+            296,
+            74,
+            320,
+            119
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            129,
+            84,
+            166,
+            110
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            241,
+            83,
+            265,
+            115
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            43,
+            83,
+            66,
+            115
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            331,
+            86,
+            367,
+            108
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            179,
+            232,
+            223,
+            265
+        ]
+    }
+]
