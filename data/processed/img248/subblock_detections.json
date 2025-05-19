@@ -1,0 +1,22 @@
+[
+  {
+    "class": "current_mirror",
+    "confidence": 0.8784101009368896,
+    "bbox": [
+      103,
+      191,
+      326,
+      265
+    ]
+  },
+  {
+    "class": "differential_pair",
+    "confidence": 0.8478452563285828,
+    "bbox": [
+      57,
+      127,
+      375,
+      190
+    ]
+  }
+]

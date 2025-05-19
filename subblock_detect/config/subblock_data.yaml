@@ -1,0 +1,10 @@
+path: /Users/fatihbasturk/Projects/EE58A-2025/subblock_detect/subblock_dataset
+train: /Users/fatihbasturk/Projects/EE58A-2025/subblock_detect/subblock_dataset/train/images
+val:   /Users/fatihbasturk/Projects/EE58A-2025/subblock_detect/subblock_dataset/val/images
+test:  /Users/fatihbasturk/Projects/EE58A-2025/subblock_detect/subblock_dataset/test/images
+
+nc: 3
+names:
+  - differential_pair
+  - cascode
+  - current_mirror
