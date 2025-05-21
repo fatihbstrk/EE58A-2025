@@ -1,0 +1,32 @@
+* Auto-generated SPICE netlist
+.include technology_models.lib
+XCurrent_Source_pin0 NET2 dummy_subckt
+XCapacitor_pin0 NET8 dummy_subckt
+XCapacitor_pin0 NET8 dummy_subckt
+XCapacitor_pin3 NET8 dummy_subckt
+XCapacitor_pin2 NET9 dummy_subckt
+XCurrent_Source_pin1 NET13 dummy_subckt
+XBJT_pin2 NET20 dummy_subckt
+XGround_pin1 NET21 dummy_subckt
+XGround_pin1 NET21 dummy_subckt
+XCapacitor_pin3 NET21 dummy_subckt
+XCapacitor_pin2 NET21 dummy_subckt
+XMOSFET_pin2 NET26 dummy_subckt
+XCapacitor_pin3 NET26 dummy_subckt
+XCapacitor_pin2 NET26 dummy_subckt
+XCapacitor_pin2 NET27 dummy_subckt
+XCapacitor_pin3 NET27 dummy_subckt
+XGround_pin0 NET28 dummy_subckt
+XGround_pin0 NET29 dummy_subckt
+XGround_pin0 NET30 dummy_subckt
+XCapacitor_pin1 NET33 dummy_subckt
+XGround_pin0 NET33 dummy_subckt
+XCapacitor_pin1 NET34 dummy_subckt
+XGround_pin0 NET34 dummy_subckt
+XGround_pin0 NET36 dummy_subckt
+XCapacitor_pin2 NET38 dummy_subckt
+XCapacitor_pin3 NET38 dummy_subckt
+XCapacitor_pin2 NET38 dummy_subckt
+XGround_pin0 NET39 dummy_subckt
+XGround_pin0 NET40 dummy_subckt
+.end

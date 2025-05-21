@@ -1,0 +1,155 @@
+[
+    {
+        "label": "MOSFET",
+        "bbox": [
+            74,
+            84,
+            111,
+            135
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            236,
+            142,
+            275,
+            185
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            121,
+            140,
+            159,
+            185
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            285,
+            86,
+            321,
+            135
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            231,
+            62,
+            257,
+            103
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            180,
+            211,
+            214,
+            247
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            138,
+            61,
+            165,
+            103
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            189,
+            92,
+            214,
+            126
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            31,
+            175,
+            60,
+            206
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            334,
+            175,
+            364,
+            206
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            297,
+            210,
+            330,
+            247
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            31,
+            206,
+            60,
+            248
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            180,
+            252,
+            215,
+            291
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            297,
+            252,
+            332,
+            291
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            64,
+            209,
+            99,
+            247
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            336,
+            205,
+            364,
+            249
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            64,
+            250,
+            99,
+            292
+        ]
+    }
+]

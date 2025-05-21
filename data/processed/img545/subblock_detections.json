@@ -1,0 +1,22 @@
+[
+  {
+    "class": "differential_pair",
+    "confidence": 0.9196800589561462,
+    "bbox": [
+      91,
+      90,
+      193,
+      145
+    ]
+  },
+  {
+    "class": "differential_pair",
+    "confidence": 0.7728261947631836,
+    "bbox": [
+      210,
+      90,
+      310,
+      146
+    ]
+  }
+]

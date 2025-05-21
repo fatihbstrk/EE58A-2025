@@ -1,0 +1,50 @@
+[
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 255,
+    "y": 181,
+    "net_id": 7
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 108,
+    "y": 182,
+    "net_id": 13
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 141,
+    "y": 182,
+    "net_id": 7
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 198,
+    "y": 260,
+    "net_id": 23
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 114,
+    "y": 67,
+    "net_id": 3
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 114,
+    "y": 102,
+    "net_id": 7
+  }
+]

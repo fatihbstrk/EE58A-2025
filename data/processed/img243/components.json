@@ -1,0 +1,146 @@
+[
+    {
+        "label": "Capacitor",
+        "bbox": [
+            79,
+            33,
+            104,
+            60
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            213,
+            79,
+            238,
+            104
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            214,
+            33,
+            238,
+            60
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            306,
+            240,
+            330,
+            267
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            347,
+            153,
+            369,
+            171
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            304,
+            34,
+            330,
+            61
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            197,
+            238,
+            222,
+            268
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            346,
+            136,
+            370,
+            150
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            39,
+            96,
+            63,
+            126
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            198,
+            157,
+            223,
+            186
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            304,
+            80,
+            319,
+            105
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            304,
+            160,
+            328,
+            185
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            133,
+            94,
+            157,
+            126
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            303,
+            79,
+            326,
+            105
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            305,
+            160,
+            318,
+            185
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            305,
+            240,
+            319,
+            267
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "component": "Battery",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 208,
+    "y": 74,
+    "net_id": 1
+  },
+  {
+    "component": "Inductor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 208,
+    "y": 54,
+    "net_id": 1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "component": "BJT",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 142,
+    "y": 166,
+    "net_id": 11
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 118,
+    "y": 202,
+    "net_id": 15
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 197,
+    "y": 86,
+    "net_id": 6
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 362,
+    "y": 165,
+    "net_id": 6
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 362,
+    "y": 205,
+    "net_id": 16
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 321,
+    "y": 85,
+    "net_id": 6
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 361,
+    "y": 246,
+    "net_id": 16
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 56,
+    "y": 253,
+    "net_id": 21
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 157,
+    "y": 250,
+    "net_id": 19
+  }
+]

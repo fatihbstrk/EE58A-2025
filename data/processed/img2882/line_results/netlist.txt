@@ -1,0 +1,4 @@
+NET5: BJT.pin2
+NET8: Capacitor.pin3
+NET9: MOSFET.pin2, BJT.pin3
+NET17: MOSFET.pin3, MOSFET.pin2

@@ -1,0 +1,346 @@
+[
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 250,
+    "y": 119,
+    "net_id": 15
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 250,
+    "y": 154,
+    "net_id": 36
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 236,
+    "y": 136,
+    "net_id": 18
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 250,
+    "y": 174,
+    "net_id": 36
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 250,
+    "y": 204,
+    "net_id": 65
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 236,
+    "y": 189,
+    "net_id": 54
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 250,
+    "y": 206,
+    "net_id": 65
+  },
+  {
+    "component": "Ground",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 250,
+    "y": 242,
+    "net_id": 82
+  },
+  {
+    "component": "Ground",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 234,
+    "y": 224,
+    "net_id": 72
+  },
+  {
+    "component": "Ground",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 266,
+    "y": 224,
+    "net_id": 70
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 175,
+    "y": 55,
+    "net_id": 7
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 175,
+    "y": 90,
+    "net_id": 17
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 157,
+    "y": 72,
+    "net_id": 4
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 38,
+    "y": 168,
+    "net_id": 44
+  },
+  {
+    "component": "Ground",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 38,
+    "y": 212,
+    "net_id": 71
+  },
+  {
+    "component": "Ground",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 24,
+    "y": 190,
+    "net_id": 49
+  },
+  {
+    "component": "Ground",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 53,
+    "y": 190,
+    "net_id": 53
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 200,
+    "y": 146,
+    "net_id": 30
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 200,
+    "y": 183,
+    "net_id": 61
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 181,
+    "y": 164,
+    "net_id": 34
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 219,
+    "y": 164,
+    "net_id": 36
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 138,
+    "y": 239,
+    "net_id": 77
+  },
+  {
+    "component": "Ground",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 138,
+    "y": 279,
+    "net_id": 83
+  },
+  {
+    "component": "Ground",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 122,
+    "y": 259,
+    "net_id": 79
+  },
+  {
+    "component": "Ground",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 155,
+    "y": 259,
+    "net_id": 80
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 77,
+    "y": 145,
+    "net_id": 29
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 77,
+    "y": 183,
+    "net_id": 59
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 58,
+    "y": 164,
+    "net_id": 44
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 350,
+    "y": 160,
+    "net_id": 37
+  },
+  {
+    "component": "Ground",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 350,
+    "y": 196,
+    "net_id": 63
+  },
+  {
+    "component": "Ground",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 334,
+    "y": 178,
+    "net_id": 48
+  },
+  {
+    "component": "Ground",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 365,
+    "y": 178,
+    "net_id": 37
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 138,
+    "y": 204,
+    "net_id": 60
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 138,
+    "y": 238,
+    "net_id": 77
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 120,
+    "y": 221,
+    "net_id": 68
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 200,
+    "y": 147,
+    "net_id": 30
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 200,
+    "y": 182,
+    "net_id": 61
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 218,
+    "y": 164,
+    "net_id": 36
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 346,
+    "y": 124,
+    "net_id": 15
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 346,
+    "y": 160,
+    "net_id": 37
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 324,
+    "y": 142,
+    "net_id": 25
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 368,
+    "y": 142,
+    "net_id": 27
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 218,
+    "y": 164,
+    "net_id": 36
+  }
+]

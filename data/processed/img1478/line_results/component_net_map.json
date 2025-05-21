@@ -1,0 +1,58 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 206,
+    "y": 96,
+    "net_id": 6
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 208,
+    "y": 200,
+    "net_id": 15
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 96,
+    "y": 84,
+    "net_id": 1
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 96,
+    "y": 134,
+    "net_id": 15
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 95,
+    "y": 227,
+    "net_id": 24
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 245,
+    "y": 224,
+    "net_id": 23
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 133,
+    "y": 202,
+    "net_id": 15
+  }
+]

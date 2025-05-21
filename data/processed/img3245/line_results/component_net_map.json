@@ -1,0 +1,106 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 80,
+    "y": 136,
+    "net_id": 4
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 328,
+    "y": 137,
+    "net_id": 5
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 280,
+    "y": 43,
+    "net_id": 1
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 280,
+    "y": 78,
+    "net_id": 3
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 150,
+    "y": 174,
+    "net_id": 6
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 191,
+    "y": 174,
+    "net_id": 5
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 224,
+    "y": 175,
+    "net_id": 5
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 268,
+    "y": 175,
+    "net_id": 7
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 206,
+    "y": 257,
+    "net_id": 8
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 132,
+    "y": 43,
+    "net_id": 1
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 132,
+    "y": 78,
+    "net_id": 2
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 204,
+    "y": 219,
+    "net_id": 5
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 204,
+    "y": 253,
+    "net_id": 8
+  }
+]

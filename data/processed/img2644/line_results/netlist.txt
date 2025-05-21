@@ -1,0 +1,5 @@
+NET1: Current_Source.pin0
+NET3: Current_Source.pin1
+NET4: MOSFET.pin3, MOSFET.pin2
+NET5: Ground.pin0
+NET6: Ground.pin0

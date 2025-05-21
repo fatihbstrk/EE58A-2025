@@ -1,0 +1,7 @@
+NET3: Current_Source.pin0
+NET7: Inductor.pin0
+NET10: Inductor.pin3
+NET14: Ground.pin0, Inductor.pin1
+NET30: Ground.pin0
+NET31: Ground.pin0
+NET34: Current_Source.pin1

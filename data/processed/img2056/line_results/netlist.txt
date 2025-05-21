@@ -1,0 +1,4 @@
+NET3: Capacitor.pin2
+NET7: Ground.pin0, Ground.pin0, Capacitor.pin2
+NET14: MOSFET.pin3
+NET20: Ground.pin0

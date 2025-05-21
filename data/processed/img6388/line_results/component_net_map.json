@@ -1,0 +1,130 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 252,
+    "y": 166,
+    "net_id": 17
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 307,
+    "y": 166,
+    "net_id": 24
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 95,
+    "y": 166,
+    "net_id": 25
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 149,
+    "y": 166,
+    "net_id": 17
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 148,
+    "y": 84,
+    "net_id": 5
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 148,
+    "y": 110,
+    "net_id": 17
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 166,
+    "y": 97,
+    "net_id": 11
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 253,
+    "y": 83,
+    "net_id": 6
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 253,
+    "y": 115,
+    "net_id": 16
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 54,
+    "y": 83,
+    "net_id": 4
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 54,
+    "y": 115,
+    "net_id": 17
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 349,
+    "y": 86,
+    "net_id": 7
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 349,
+    "y": 108,
+    "net_id": 16
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 367,
+    "y": 97,
+    "net_id": 12
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 201,
+    "y": 232,
+    "net_id": 28
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 201,
+    "y": 265,
+    "net_id": 30
+  }
+]

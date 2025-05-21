@@ -1,0 +1,1 @@
+NET1: MOSFET.pin2, Ground.pin0

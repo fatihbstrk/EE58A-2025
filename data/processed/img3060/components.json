@@ -1,0 +1,128 @@
+[
+    {
+        "label": "Current_Source",
+        "bbox": [
+            133,
+            184,
+            162,
+            213
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            187,
+            217,
+            211,
+            244
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            259,
+            211,
+            284,
+            242
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            259,
+            183,
+            281,
+            208
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            107,
+            183,
+            129,
+            209
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            104,
+            212,
+            129,
+            241
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            257,
+            16,
+            282,
+            43
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            136,
+            217,
+            161,
+            243
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            90,
+            116,
+            115,
+            145
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            245,
+            85,
+            276,
+            116
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            245,
+            86,
+            266,
+            116
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            92,
+            75,
+            109,
+            103
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            92,
+            75,
+            120,
+            104
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            234,
+            0,
+            259,
+            20
+        ]
+    }
+]

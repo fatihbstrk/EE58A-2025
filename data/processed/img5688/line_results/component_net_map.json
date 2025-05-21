@@ -1,0 +1,18 @@
+[
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 191,
+    "y": 241,
+    "net_id": 8
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 66,
+    "y": 202,
+    "net_id": 4
+  }
+]

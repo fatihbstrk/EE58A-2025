@@ -1,0 +1,16 @@
+* Auto-generated SPICE netlist
+.include technology_models.lib
+XCurrent_Source_pin0 NET3 dummy_subckt
+XBJT_pin2 NET7 dummy_subckt
+XBJT_pin1 NET15 dummy_subckt
+XBJT_pin2 NET16 dummy_subckt
+XBJT_pin3 NET16 dummy_subckt
+XCurrent_Source_pin1 NET16 dummy_subckt
+XGround_pin0 NET23 dummy_subckt
+XBJT_pin2 NET26 dummy_subckt
+XBJT_pin2 NET28 dummy_subckt
+XBJT_pin3 NET29 dummy_subckt
+XGround_pin0 NET39 dummy_subckt
+XGround_pin0 NET40 dummy_subckt
+XBJT_pin3 NET47 dummy_subckt
+.end

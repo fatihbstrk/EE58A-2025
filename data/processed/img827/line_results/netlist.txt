@@ -1,0 +1,3 @@
+NET7: Resistor.pin0
+NET14: Resistor.pin1
+NET31: Ground.pin2

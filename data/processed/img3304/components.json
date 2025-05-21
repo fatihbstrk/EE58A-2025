@@ -1,0 +1,119 @@
+[
+    {
+        "label": "Ground",
+        "bbox": [
+            284,
+            267,
+            316,
+            294
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            122,
+            175,
+            154,
+            208
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            333,
+            184,
+            373,
+            217
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            64,
+            93,
+            87,
+            124
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            189,
+            96,
+            209,
+            124
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            227,
+            185,
+            264,
+            216
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            227,
+            185,
+            247,
+            215
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            171,
+            95,
+            209,
+            124
+        ]
+    },
+    {
+        "label": "AC_Source",
+        "bbox": [
+            281,
+            237,
+            317,
+            263
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            281,
+            237,
+            317,
+            263
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            352,
+            185,
+            373,
+            216
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            333,
+            184,
+            373,
+            216
+        ]
+    },
+    {
+        "label": "AC_Source",
+        "bbox": [
+            120,
+            145,
+            155,
+            172
+        ]
+    }
+]

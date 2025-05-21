@@ -1,0 +1,50 @@
+[
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 102,
+    "y": 70,
+    "net_id": 3
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 128,
+    "y": 70,
+    "net_id": 4
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 103,
+    "y": 154,
+    "net_id": 15
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 221,
+    "y": 72,
+    "net_id": 4
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 102,
+    "y": 154,
+    "net_id": 15
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 103,
+    "y": 154,
+    "net_id": 15
+  }
+]

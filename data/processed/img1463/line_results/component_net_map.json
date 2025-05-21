@@ -1,0 +1,74 @@
+[
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 273,
+    "y": 175,
+    "net_id": 11
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 157,
+    "y": 158,
+    "net_id": 7
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 116,
+    "y": 196,
+    "net_id": 12
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 116,
+    "y": 234,
+    "net_id": 16
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 234,
+    "y": 157,
+    "net_id": 7
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 116,
+    "y": 236,
+    "net_id": 16
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 116,
+    "y": 62,
+    "net_id": 2
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 116,
+    "y": 108,
+    "net_id": 7
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 155,
+    "y": 158,
+    "net_id": 7
+  }
+]

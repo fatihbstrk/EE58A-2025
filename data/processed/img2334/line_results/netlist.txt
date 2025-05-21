@@ -1,0 +1,6 @@
+NET6: MOSFET.pin2
+NET7: MOSFET.pin3, MOSFET.pin2
+NET12: MOSFET.pin2
+NET13: MOSFET.pin3
+NET15: AC_Source.pin0, AC_Source.pin0
+NET18: AC_Source.pin1, AC_Source.pin1

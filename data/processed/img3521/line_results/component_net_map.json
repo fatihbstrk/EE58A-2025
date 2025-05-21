@@ -1,0 +1,298 @@
+[
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 273,
+    "y": 99,
+    "net_id": 10
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 324,
+    "y": 100,
+    "net_id": 14
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 157,
+    "y": 124,
+    "net_id": 11
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 182,
+    "y": 124,
+    "net_id": 21
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 44,
+    "y": 124,
+    "net_id": 15
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 69,
+    "y": 124,
+    "net_id": 20
+  },
+  {
+    "component": "BJT",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 112,
+    "y": 102,
+    "net_id": 11
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 100,
+    "y": 125,
+    "net_id": 16
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 124,
+    "y": 125,
+    "net_id": 17
+  },
+  {
+    "component": "BJT",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 224,
+    "y": 100,
+    "net_id": 10
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 213,
+    "y": 124,
+    "net_id": 22
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 236,
+    "y": 124,
+    "net_id": 10
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 368,
+    "y": 197,
+    "net_id": 37
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 292,
+    "y": 192,
+    "net_id": 14
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 292,
+    "y": 230,
+    "net_id": 35
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 62,
+    "y": 51,
+    "net_id": 3
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 62,
+    "y": 89,
+    "net_id": 11
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 176,
+    "y": 45,
+    "net_id": 3
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 176,
+    "y": 80,
+    "net_id": 10
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 106,
+    "y": 51,
+    "net_id": 3
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 106,
+    "y": 89,
+    "net_id": 11
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 291,
+    "y": 128,
+    "net_id": 18
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 291,
+    "y": 164,
+    "net_id": 14
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 300,
+    "y": 146,
+    "net_id": 25
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 342,
+    "y": 146,
+    "net_id": 19
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 342,
+    "y": 181,
+    "net_id": 35
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 334,
+    "y": 164,
+    "net_id": 14
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 218,
+    "y": 46,
+    "net_id": 3
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 218,
+    "y": 80,
+    "net_id": 10
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 21,
+    "y": 195,
+    "net_id": 36
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 144,
+    "y": 184,
+    "net_id": 34
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 83,
+    "y": 191,
+    "net_id": 28
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 83,
+    "y": 232,
+    "net_id": 35
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 198,
+    "y": 192,
+    "net_id": 26
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 198,
+    "y": 232,
+    "net_id": 35
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 198,
+    "y": 192,
+    "net_id": 26
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 198,
+    "y": 232,
+    "net_id": 35
+  }
+]

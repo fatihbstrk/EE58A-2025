@@ -1,0 +1,50 @@
+[
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 108,
+    "y": 199,
+    "net_id": 44
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 250,
+    "y": 198,
+    "net_id": 52
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 109,
+    "y": 59,
+    "net_id": 1
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 109,
+    "y": 114,
+    "net_id": 7
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 213,
+    "y": 174,
+    "net_id": 7
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 213,
+    "y": 174,
+    "net_id": 7
+  }
+]

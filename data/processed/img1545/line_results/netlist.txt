@@ -1,0 +1,11 @@
+NET2: Capacitor.pin2
+NET7: Capacitor.pin2
+NET14: Capacitor.pin2
+NET16: Capacitor.pin3, Capacitor.pin2
+NET19: Capacitor.pin1
+NET20: Capacitor.pin1
+NET29: Capacitor.pin2
+NET31: Capacitor.pin3, Capacitor.pin2, Capacitor.pin2
+NET38: Capacitor.pin2, Capacitor.pin2
+NET41: Capacitor.pin3, Capacitor.pin3
+NET47: Ground.pin0

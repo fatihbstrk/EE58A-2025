@@ -1,0 +1,3 @@
+NET1: Resistor.pin0
+NET6: BJT.pin3, BJT.pin2, Resistor.pin1
+NET10: Battery.pin0, Battery.pin0

@@ -1,0 +1,4 @@
+NET5: Capacitor.pin2
+NET14: Capacitor.pin2, Capacitor.pin2
+NET19: Capacitor.pin2
+NET21: Ground.pin0

@@ -1,0 +1,50 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 279,
+    "y": 232,
+    "net_id": 17
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 100,
+    "y": 232,
+    "net_id": 17
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 98,
+    "y": 105,
+    "net_id": 9
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 399,
+    "y": 105,
+    "net_id": 8
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 45,
+    "y": 106,
+    "net_id": 5
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 82,
+    "y": 106,
+    "net_id": 9
+  }
+]

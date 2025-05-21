@@ -1,0 +1,9 @@
+* Auto-generated SPICE netlist
+.include technology_models.lib
+XCapacitor_pin2 NET3 dummy_subckt
+XCapacitor_pin3 NET4 dummy_subckt
+XCapacitor_pin2 NET4 dummy_subckt
+XCapacitor_pin2 NET15 dummy_subckt
+XCapacitor_pin2 NET15 dummy_subckt
+XCapacitor_pin2 NET15 dummy_subckt
+.end

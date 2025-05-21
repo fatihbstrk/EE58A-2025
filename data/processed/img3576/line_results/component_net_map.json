@@ -1,0 +1,114 @@
+[
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 200,
+    "y": 148,
+    "net_id": 23
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 243,
+    "y": 177,
+    "net_id": 23
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 243,
+    "y": 232,
+    "net_id": 36
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 277,
+    "y": 204,
+    "net_id": 34
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 162,
+    "y": 55,
+    "net_id": 2
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 162,
+    "y": 100,
+    "net_id": 15
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 55,
+    "y": 148,
+    "net_id": 21
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 90,
+    "y": 54,
+    "net_id": 2
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 90,
+    "y": 99,
+    "net_id": 14
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 128,
+    "y": 183,
+    "net_id": 26
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 128,
+    "y": 235,
+    "net_id": 36
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 286,
+    "y": 86,
+    "net_id": 12
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 321,
+    "y": 149,
+    "net_id": 19
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 321,
+    "y": 203,
+    "net_id": 36
+  }
+]

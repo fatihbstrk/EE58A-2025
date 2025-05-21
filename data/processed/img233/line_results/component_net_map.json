@@ -1,0 +1,154 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 187,
+    "y": 234,
+    "net_id": 16
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 225,
+    "y": 234,
+    "net_id": 23
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 44,
+    "y": 136,
+    "net_id": 12
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 85,
+    "y": 136,
+    "net_id": 10
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 287,
+    "y": 233,
+    "net_id": 17
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 144,
+    "y": 49,
+    "net_id": 3
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 144,
+    "y": 85,
+    "net_id": 8
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 159,
+    "y": 67,
+    "net_id": 5
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 71,
+    "y": 234,
+    "net_id": 24
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 110,
+    "y": 234,
+    "net_id": 16
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 254,
+    "y": 136,
+    "net_id": 13
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 319,
+    "y": 50,
+    "net_id": 4
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 319,
+    "y": 85,
+    "net_id": 9
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 334,
+    "y": 68,
+    "net_id": 6
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 378,
+    "y": 199,
+    "net_id": 21
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 221,
+    "y": 276,
+    "net_id": 26
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 20,
+    "y": 142,
+    "net_id": 12
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 279,
+    "y": 142,
+    "net_id": 13
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 365,
+    "y": 38,
+    "net_id": 4
+  }
+]

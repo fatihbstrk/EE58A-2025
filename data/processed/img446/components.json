@@ -1,0 +1,110 @@
+[
+    {
+        "label": "Capacitor",
+        "bbox": [
+            174,
+            207,
+            197,
+            230
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            174,
+            247,
+            196,
+            271
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            45,
+            113,
+            69,
+            140
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            247,
+            115,
+            268,
+            139
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            174,
+            74,
+            196,
+            98
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            53,
+            227,
+            76,
+            253
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            322,
+            246,
+            338,
+            272
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            60,
+            165,
+            83,
+            190
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            174,
+            34,
+            197,
+            58
+        ]
+    },
+    {
+        "label": "AC_Source",
+        "bbox": [
+            240,
+            230,
+            260,
+            250
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            321,
+            206,
+            340,
+            231
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            117,
+            113,
+            139,
+            141
+        ]
+    }
+]

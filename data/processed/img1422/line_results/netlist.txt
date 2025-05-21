@@ -1,0 +1,3 @@
+NET7: MOSFET.pin2
+NET25: MOSFET.pin2
+NET33: Ground.pin0

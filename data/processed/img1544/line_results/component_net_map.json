@@ -1,0 +1,66 @@
+[
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 124,
+    "y": 122,
+    "net_id": 11
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 192,
+    "y": 85,
+    "net_id": 9
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 161,
+    "y": 114,
+    "net_id": 11
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 161,
+    "y": 194,
+    "net_id": 17
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 216,
+    "y": 223,
+    "net_id": 21
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 161,
+    "y": 194,
+    "net_id": 17
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 196,
+    "y": 83,
+    "net_id": 9
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 160,
+    "y": 114,
+    "net_id": 11
+  }
+]

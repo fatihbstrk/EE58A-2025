@@ -1,0 +1,162 @@
+[
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 315,
+    "y": 188,
+    "net_id": 20
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 334,
+    "y": 188,
+    "net_id": 9
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 257,
+    "y": 227,
+    "net_id": 18
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 44,
+    "y": 136,
+    "net_id": 13
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 283,
+    "y": 137,
+    "net_id": 8
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 283,
+    "y": 158,
+    "net_id": 20
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 325,
+    "y": 226,
+    "net_id": 20
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 226,
+    "y": 228,
+    "net_id": 18
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 202,
+    "y": 135,
+    "net_id": 8
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 202,
+    "y": 159,
+    "net_id": 18
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 71,
+    "y": 47,
+    "net_id": 3
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 71,
+    "y": 79,
+    "net_id": 8
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 86,
+    "y": 63,
+    "net_id": 4
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 153,
+    "y": 134,
+    "net_id": 15
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 352,
+    "y": 49,
+    "net_id": 3
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 352,
+    "y": 77,
+    "net_id": 9
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 365,
+    "y": 63,
+    "net_id": 6
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 127,
+    "y": 48,
+    "net_id": 3
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 127,
+    "y": 78,
+    "net_id": 8
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 142,
+    "y": 63,
+    "net_id": 5
+  }
+]

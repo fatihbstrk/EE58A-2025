@@ -1,0 +1,74 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 169,
+    "y": 62,
+    "net_id": 6
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 35,
+    "y": 61,
+    "net_id": 5
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 75,
+    "y": 61,
+    "net_id": 6
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 44,
+    "y": 162,
+    "net_id": 6
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 44,
+    "y": 200,
+    "net_id": 19
+  },
+  {
+    "component": "Battery",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 342,
+    "y": 162,
+    "net_id": 7
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 230,
+    "y": 227,
+    "net_id": 13
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 229,
+    "y": 144,
+    "net_id": 7
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 229,
+    "y": 144,
+    "net_id": 7
+  }
+]

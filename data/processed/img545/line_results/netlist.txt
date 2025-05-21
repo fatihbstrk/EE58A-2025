@@ -1,0 +1,17 @@
+NET3: Current_Source.pin0, Current_Source.pin0, Current_Source.pin0, Current_Source.pin0
+NET4: Current_Source.pin3
+NET5: Current_Source.pin3
+NET6: Current_Source.pin3
+NET7: Current_Source.pin3
+NET8: Capacitor.pin3, Resistor.pin2, Current_Source.pin0, Current_Source.pin1, Current_Source.pin1, Current_Source.pin1, Current_Source.pin1, Current_Source.pin1
+NET9: Capacitor.pin2, Current_Source.pin1
+NET16: Capacitor.pin3
+NET21: Capacitor.pin2
+NET25: Resistor.pin3, MOSFET.pin3, Current_Source.pin0
+NET28: Resistor.pin0
+NET29: Resistor.pin0
+NET30: Capacitor.pin3, Resistor.pin2
+NET31: Capacitor.pin2, Resistor.pin3
+NET32: MOSFET.pin2
+NET34: Current_Source.pin3
+NET35: Current_Source.pin3

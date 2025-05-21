@@ -1,0 +1,6 @@
+NET1: Current_Source.pin0
+NET4: BJT.pin2
+NET7: Current_Source.pin1, BJT.pin3
+NET8: BJT.pin3
+NET10: Ground.pin0
+NET11: Ground.pin0

@@ -1,0 +1,29 @@
+* Auto-generated SPICE netlist
+.include technology_models.lib
+XMOSFET_pin0 NET7 dummy_subckt
+XMOSFET_pin1 NET16 dummy_subckt
+XResistor_pin0 NET17 dummy_subckt
+XResistor_pin2 NET26 dummy_subckt
+XMOSFET_pin0 NET29 dummy_subckt
+XMOSFET_pin0 NET30 dummy_subckt
+XMOSFET_pin3 NET35 dummy_subckt
+XResistor_pin0 NET35 dummy_subckt
+XResistor_pin1 NET35 dummy_subckt
+XMOSFET_pin3 NET39 dummy_subckt
+XMOSFET_pin2 NET41 dummy_subckt
+XResistor_pin2 NET51 dummy_subckt
+XCurrent_Source_pin0 NET55 dummy_subckt
+XMOSFET_pin1 NET57 dummy_subckt
+XMOSFET_pin1 NET58 dummy_subckt
+XResistor_pin1 NET59 dummy_subckt
+XGround_pin0 NET59 dummy_subckt
+XGround_pin3 NET62 dummy_subckt
+XCurrent_Source_pin2 NET63 dummy_subckt
+XGround_pin2 NET64 dummy_subckt
+XGround_pin0 NET66 dummy_subckt
+XCurrent_Source_pin1 NET66 dummy_subckt
+XGround_pin2 NET67 dummy_subckt
+XGround_pin3 NET68 dummy_subckt
+XGround_pin1 NET69 dummy_subckt
+XGround_pin1 NET70 dummy_subckt
+.end

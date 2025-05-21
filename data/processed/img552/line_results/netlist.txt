@@ -1,0 +1,3 @@
+NET2: Ground.pin0, MOSFET.pin2, MOSFET.pin2, Battery.pin3, MOSFET.pin2
+NET17: MOSFET.pin3
+NET18: MOSFET.pin2

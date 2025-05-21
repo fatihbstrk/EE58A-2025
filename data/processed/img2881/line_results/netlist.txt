@@ -1,0 +1,3 @@
+NET2: BJT.pin2
+NET5: MOSFET.pin2, BJT.pin3
+NET12: MOSFET.pin3, MOSFET.pin2

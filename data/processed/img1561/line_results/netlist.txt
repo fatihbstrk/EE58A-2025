@@ -1,0 +1,4 @@
+NET14: MOSFET.pin2
+NET15: MOSFET.pin3
+NET21: Current_Source.pin0
+NET23: Ground.pin0, Current_Source.pin1

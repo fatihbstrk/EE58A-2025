@@ -1,0 +1,146 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 250,
+    "y": 120,
+    "net_id": 4
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 136,
+    "y": 121,
+    "net_id": 3
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 210,
+    "y": 232,
+    "net_id": 14
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 360,
+    "y": 232,
+    "net_id": 13
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 320,
+    "y": 212,
+    "net_id": 6
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 136,
+    "y": 213,
+    "net_id": 12
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 192,
+    "y": 47,
+    "net_id": 1
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 192,
+    "y": 82,
+    "net_id": 2
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 247,
+    "y": 213,
+    "net_id": 6
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 66,
+    "y": 214,
+    "net_id": 12
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 67,
+    "y": 214,
+    "net_id": 12
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 137,
+    "y": 212,
+    "net_id": 12
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 247,
+    "y": 214,
+    "net_id": 6
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 248,
+    "y": 214,
+    "net_id": 6
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 137,
+    "y": 212,
+    "net_id": 12
+  },
+  {
+    "component": "Diode",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 176,
+    "y": 149,
+    "net_id": 5
+  },
+  {
+    "component": "Diode",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 176,
+    "y": 190,
+    "net_id": 12
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 66,
+    "y": 214,
+    "net_id": 12
+  }
+]

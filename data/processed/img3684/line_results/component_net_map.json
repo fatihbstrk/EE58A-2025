@@ -1,0 +1,34 @@
+[
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 233,
+    "y": 107,
+    "net_id": 10
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 56,
+    "y": 159,
+    "net_id": 11
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 234,
+    "y": 189,
+    "net_id": 12
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 234,
+    "y": 243,
+    "net_id": 13
+  }
+]

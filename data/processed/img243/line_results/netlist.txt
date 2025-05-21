@@ -1,0 +1,19 @@
+NET4: Capacitor.pin2
+NET5: Capacitor.pin3
+NET7: Capacitor.pin3, Capacitor.pin2
+NET8: Capacitor.pin3
+NET9: Capacitor.pin3
+NET12: Capacitor.pin2
+NET14: Capacitor.pin3, Capacitor.pin2, Capacitor.pin2
+NET15: Capacitor.pin0
+NET16: Capacitor.pin2
+NET17: Capacitor.pin3
+NET18: Capacitor.pin2
+NET24: Ground.pin0, Capacitor.pin1
+NET25: Capacitor.pin2
+NET26: Capacitor.pin2, Capacitor.pin2
+NET28: Capacitor.pin3
+NET30: Capacitor.pin2
+NET31: Capacitor.pin2, Capacitor.pin2
+NET32: Capacitor.pin3
+NET33: Capacitor.pin3

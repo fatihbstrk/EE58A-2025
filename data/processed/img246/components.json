@@ -1,0 +1,164 @@
+[
+    {
+        "label": "Capacitor",
+        "bbox": [
+            259,
+            152,
+            280,
+            168
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            47,
+            78,
+            67,
+            103
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            69,
+            30,
+            88,
+            52
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            257,
+            171,
+            281,
+            186
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            146,
+            152,
+            169,
+            169
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            146,
+            92,
+            168,
+            109
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            211,
+            103,
+            227,
+            129
+        ]
+    },
+    {
+        "label": "Battery",
+        "bbox": [
+            259,
+            92,
+            279,
+            108
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            234,
+            30,
+            246,
+            54
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            360,
+            158,
+            381,
+            176
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            211,
+            133,
+            225,
+            159
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            145,
+            171,
+            169,
+            185
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            361,
+            139,
+            382,
+            154
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            322,
+            134,
+            334,
+            155
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            322,
+            249,
+            339,
+            273
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            171,
+            201,
+            193,
+            214
+        ]
+    },
+    {
+        "label": "Battery",
+        "bbox": [
+            360,
+            139,
+            381,
+            154
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            46,
+            78,
+            61,
+            103
+        ]
+    }
+]

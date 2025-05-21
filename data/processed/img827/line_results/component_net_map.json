@@ -1,0 +1,26 @@
+[
+  {
+    "component": "Ground",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 172,
+    "y": 259,
+    "net_id": 31
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 205,
+    "y": 75,
+    "net_id": 7
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 205,
+    "y": 134,
+    "net_id": 14
+  }
+]

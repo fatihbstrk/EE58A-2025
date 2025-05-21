@@ -1,0 +1,3 @@
+NET3: Capacitor.pin2
+NET4: Capacitor.pin3, Capacitor.pin2
+NET15: Capacitor.pin2, Capacitor.pin2, Capacitor.pin2

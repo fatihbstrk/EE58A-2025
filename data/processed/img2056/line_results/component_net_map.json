@@ -1,0 +1,50 @@
+[
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 296,
+    "y": 57,
+    "net_id": 3
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 106,
+    "y": 214,
+    "net_id": 14
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 321,
+    "y": 231,
+    "net_id": 7
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 100,
+    "y": 231,
+    "net_id": 20
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 210,
+    "y": 231,
+    "net_id": 7
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 296,
+    "y": 102,
+    "net_id": 7
+  }
+]

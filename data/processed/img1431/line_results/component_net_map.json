@@ -1,0 +1,26 @@
+[
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 147,
+    "y": 104,
+    "net_id": 14
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 200,
+    "y": 240,
+    "net_id": 32
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 148,
+    "y": 222,
+    "net_id": 28
+  }
+]

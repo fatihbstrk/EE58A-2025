@@ -1,0 +1,38 @@
+* Auto-generated SPICE netlist
+.include technology_models.lib
+XBattery_pin1 NET2 dummy_subckt
+XCapacitor_pin3 NET2 dummy_subckt
+XBattery_pin0 NET2 dummy_subckt
+XBattery_pin0 NET2 dummy_subckt
+XCapacitor_pin2 NET3 dummy_subckt
+XCapacitor_pin3 NET4 dummy_subckt
+XCapacitor_pin1 NET8 dummy_subckt
+XCapacitor_pin2 NET8 dummy_subckt
+XCapacitor_pin0 NET10 dummy_subckt
+XCapacitor_pin0 NET10 dummy_subckt
+XCapacitor_pin2 NET10 dummy_subckt
+XCapacitor_pin2 NET10 dummy_subckt
+XGround_pin0 NET10 dummy_subckt
+XCapacitor_pin0 NET17 dummy_subckt
+XBattery_pin0 NET18 dummy_subckt
+XCapacitor_pin2 NET20 dummy_subckt
+XCapacitor_pin2 NET20 dummy_subckt
+XCapacitor_pin3 NET21 dummy_subckt
+XCapacitor_pin3 NET22 dummy_subckt
+XBattery_pin3 NET23 dummy_subckt
+XCapacitor_pin2 NET28 dummy_subckt
+XBattery_pin2 NET28 dummy_subckt
+XGround_pin0 NET30 dummy_subckt
+XBattery_pin1 NET30 dummy_subckt
+XBattery_pin1 NET30 dummy_subckt
+XCapacitor_pin3 NET32 dummy_subckt
+XCapacitor_pin3 NET33 dummy_subckt
+XCapacitor_pin1 NET35 dummy_subckt
+XGround_pin0 NET35 dummy_subckt
+XCapacitor_pin1 NET36 dummy_subckt
+XGround_pin0 NET36 dummy_subckt
+XGround_pin1 NET39 dummy_subckt
+XGround_pin1 NET40 dummy_subckt
+XGround_pin1 NET41 dummy_subckt
+XCapacitor_pin2 NET43 dummy_subckt
+.end

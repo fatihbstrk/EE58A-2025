@@ -1,0 +1,42 @@
+[
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 206,
+    "y": 251,
+    "net_id": 34
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 155,
+    "y": 105,
+    "net_id": 15
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 154,
+    "y": 54,
+    "net_id": 8
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 155,
+    "y": 169,
+    "net_id": 26
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 156,
+    "y": 169,
+    "net_id": 26
+  }
+]

@@ -1,0 +1,4 @@
+NET7: BJT.pin2, BJT.pin3
+NET8: BJT.pin2
+NET9: Ground.pin0
+NET10: Ground.pin0

@@ -1,0 +1,21 @@
+NET2: Battery.pin1, Capacitor.pin3, Battery.pin0, Battery.pin0
+NET3: Capacitor.pin2
+NET4: Capacitor.pin3
+NET8: Capacitor.pin1, Capacitor.pin2
+NET10: Capacitor.pin0, Capacitor.pin0, Capacitor.pin2, Capacitor.pin2, Ground.pin0
+NET17: Capacitor.pin0
+NET18: Battery.pin0
+NET20: Capacitor.pin2, Capacitor.pin2
+NET21: Capacitor.pin3
+NET22: Capacitor.pin3
+NET23: Battery.pin3
+NET28: Capacitor.pin2, Battery.pin2
+NET30: Ground.pin0, Battery.pin1, Battery.pin1
+NET32: Capacitor.pin3
+NET33: Capacitor.pin3
+NET35: Capacitor.pin1, Ground.pin0
+NET36: Capacitor.pin1, Ground.pin0
+NET39: Ground.pin1
+NET40: Ground.pin1
+NET41: Ground.pin1
+NET43: Capacitor.pin2

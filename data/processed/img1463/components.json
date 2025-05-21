@@ -1,0 +1,65 @@
+[
+    {
+        "label": "Ground",
+        "bbox": [
+            256,
+            175,
+            290,
+            225
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            112,
+            137,
+            157,
+            179
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            96,
+            196,
+            135,
+            234
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            234,
+            133,
+            264,
+            181
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            93,
+            236,
+            138,
+            277
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            88,
+            62,
+            144,
+            108
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            126,
+            138,
+            155,
+            178
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+* Auto-generated SPICE netlist
+.include technology_models.lib
+XCapacitor_pin2 NET3 dummy_subckt
+XCapacitor_pin2 NET4 dummy_subckt
+XCapacitor_pin2 NET4 dummy_subckt
+XCapacitor_pin2 NET4 dummy_subckt
+XCapacitor_pin3 NET4 dummy_subckt
+XCapacitor_pin2 NET4 dummy_subckt
+XMOSFET_pin3 NET4 dummy_subckt
+XCapacitor_pin3 NET5 dummy_subckt
+XCapacitor_pin3 NET5 dummy_subckt
+XCapacitor_pin3 NET6 dummy_subckt
+XCapacitor_pin3 NET6 dummy_subckt
+XCapacitor_pin3 NET12 dummy_subckt
+XCapacitor_pin2 NET13 dummy_subckt
+XCapacitor_pin3 NET13 dummy_subckt
+XMOSFET_pin2 NET13 dummy_subckt
+XCapacitor_pin2 NET13 dummy_subckt
+XResistor_pin0 NET14 dummy_subckt
+XResistor_pin0 NET14 dummy_subckt
+XMOSFET_pin2 NET14 dummy_subckt
+XMOSFET_pin3 NET16 dummy_subckt
+XCapacitor_pin2 NET30 dummy_subckt
+XCapacitor_pin3 NET31 dummy_subckt
+XCapacitor_pin3 NET31 dummy_subckt
+XMOSFET_pin3 NET32 dummy_subckt
+XResistor_pin0 NET35 dummy_subckt
+XResistor_pin3 NET36 dummy_subckt
+XResistor_pin3 NET37 dummy_subckt
+XResistor_pin1 NET38 dummy_subckt
+XResistor_pin1 NET39 dummy_subckt
+XResistor_pin3 NET43 dummy_subckt
+XBJT_pin2 NET44 dummy_subckt
+XBJT_pin2 NET45 dummy_subckt
+XBJT_pin3 NET46 dummy_subckt
+XBJT_pin2 NET46 dummy_subckt
+XBJT_pin3 NET46 dummy_subckt
+XResistor_pin1 NET46 dummy_subckt
+XGround_pin0 NET46 dummy_subckt
+.end

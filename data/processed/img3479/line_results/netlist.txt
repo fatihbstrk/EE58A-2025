@@ -1,0 +1,4 @@
+NET2: Resistor.pin0
+NET12: Resistor.pin1, MOSFET.pin2, Capacitor.pin3, Battery.pin2
+NET18: MOSFET.pin3
+NET29: Capacitor.pin2

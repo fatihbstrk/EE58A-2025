@@ -1,0 +1,65 @@
+[
+    {
+        "label": "Current_Source",
+        "bbox": [
+            194,
+            185,
+            243,
+            236
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            266,
+            173,
+            300,
+            222
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            198,
+            240,
+            238,
+            285
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            263,
+            224,
+            303,
+            273
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            176,
+            69,
+            228,
+            128
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            68,
+            187,
+            111,
+            233
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            67,
+            237,
+            110,
+            289
+        ]
+    }
+]

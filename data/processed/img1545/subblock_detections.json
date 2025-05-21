@@ -1,0 +1,52 @@
+[
+  {
+    "class": "cascode",
+    "confidence": 0.8227630853652954,
+    "bbox": [
+      99,
+      43,
+      152,
+      123
+    ]
+  },
+  {
+    "class": "differential_pair",
+    "confidence": 0.81050705909729,
+    "bbox": [
+      100,
+      186,
+      298,
+      241
+    ]
+  },
+  {
+    "class": "cascode",
+    "confidence": 0.7817621231079102,
+    "bbox": [
+      214,
+      42,
+      278,
+      129
+    ]
+  },
+  {
+    "class": "cascode",
+    "confidence": 0.6629111766815186,
+    "bbox": [
+      217,
+      150,
+      301,
+      237
+    ]
+  },
+  {
+    "class": "cascode",
+    "confidence": 0.47979673743247986,
+    "bbox": [
+      102,
+      151,
+      155,
+      227
+    ]
+  }
+]

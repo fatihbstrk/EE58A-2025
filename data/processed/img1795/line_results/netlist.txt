@@ -1,0 +1,19 @@
+NET4: Ground.pin0
+NET24: Ground.pin2
+NET25: Ground.pin3
+NET26: Ground.pin1
+NET27: MOSFET.pin0
+NET28: MOSFET.pin0
+NET33: MOSFET.pin3
+NET35: MOSFET.pin2
+NET36: MOSFET.pin3, Ground.pin0
+NET41: Ground.pin3
+NET43: Current_Source.pin0
+NET45: MOSFET.pin1
+NET46: MOSFET.pin1, Ground.pin2
+NET49: Current_Source.pin2
+NET50: Current_Source.pin3, Ground.pin3
+NET51: Ground.pin1
+NET53: Current_Source.pin1, Ground.pin0
+NET55: Ground.pin2
+NET56: Ground.pin1

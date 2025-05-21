@@ -1,0 +1,11 @@
+NET3: Current_Source.pin0
+NET4: Current_Source.pin3
+NET5: BJT.pin3, Current_Source.pin1
+NET10: BJT.pin3
+NET11: BJT.pin2
+NET13: BJT.pin2
+NET14: Capacitor.pin0
+NET15: Capacitor.pin2, Capacitor.pin3
+NET16: BJT.pin2, BJT.pin3
+NET22: BJT.pin2
+NET23: BJT.pin3

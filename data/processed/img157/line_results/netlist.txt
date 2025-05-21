@@ -1,0 +1,13 @@
+NET3: Resistor.pin0
+NET6: BJT.pin2
+NET7: BJT.pin3, BJT.pin2
+NET8: BJT.pin3, BJT.pin2
+NET12: Resistor.pin0, Diode.pin3
+NET16: Resistor.pin1, Diode.pin0, Diode.pin2
+NET29: Diode.pin1, Diode.pin0
+NET30: Resistor.pin1, BJT.pin2
+NET32: BJT.pin3
+NET36: Diode.pin1, Diode.pin0
+NET38: BJT.pin2, BJT.pin3, Resistor.pin0
+NET39: Resistor.pin1, Ground.pin0, Diode.pin1
+NET41: BJT.pin2

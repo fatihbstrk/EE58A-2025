@@ -1,0 +1,3 @@
+* Auto-generated SPICE netlist
+.include technology_models.lib
+.end

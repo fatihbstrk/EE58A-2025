@@ -1,0 +1,20 @@
+NET3: Capacitor.pin2
+NET4: Capacitor.pin2, Capacitor.pin2, Capacitor.pin2, Capacitor.pin3, Capacitor.pin2, MOSFET.pin3
+NET5: Capacitor.pin3, Capacitor.pin3
+NET6: Capacitor.pin3, Capacitor.pin3
+NET12: Capacitor.pin3
+NET13: Capacitor.pin2, Capacitor.pin3, MOSFET.pin2, Capacitor.pin2
+NET14: Resistor.pin0, Resistor.pin0, MOSFET.pin2
+NET16: MOSFET.pin3
+NET30: Capacitor.pin2
+NET31: Capacitor.pin3, Capacitor.pin3
+NET32: MOSFET.pin3
+NET35: Resistor.pin0
+NET36: Resistor.pin3
+NET37: Resistor.pin3
+NET38: Resistor.pin1
+NET39: Resistor.pin1
+NET43: Resistor.pin3
+NET44: BJT.pin2
+NET45: BJT.pin2
+NET46: BJT.pin3, BJT.pin2, BJT.pin3, Resistor.pin1, Ground.pin0

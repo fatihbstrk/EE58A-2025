@@ -1,0 +1,5 @@
+NET2: MOSFET.pin3, Capacitor.pin2, Capacitor.pin2, Capacitor.pin2
+NET4: MOSFET.pin2
+NET6: MOSFET.pin3
+NET8: MOSFET.pin2
+NET9: Ground.pin0

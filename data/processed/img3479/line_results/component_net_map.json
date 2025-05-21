@@ -1,0 +1,58 @@
+[
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 82,
+    "y": 45,
+    "net_id": 2
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 82,
+    "y": 92,
+    "net_id": 12
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 281,
+    "y": 132,
+    "net_id": 12
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 335,
+    "y": 132,
+    "net_id": 18
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 63,
+    "y": 205,
+    "net_id": 29
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 123,
+    "y": 205,
+    "net_id": 12
+  },
+  {
+    "component": "Battery",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 282,
+    "y": 131,
+    "net_id": 12
+  }
+]

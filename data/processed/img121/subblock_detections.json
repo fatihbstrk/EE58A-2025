@@ -1,0 +1,32 @@
+[
+  {
+    "class": "current_mirror",
+    "confidence": 0.9269642233848572,
+    "bbox": [
+      25,
+      176,
+      210,
+      241
+    ]
+  },
+  {
+    "class": "current_mirror",
+    "confidence": 0.9028798341751099,
+    "bbox": [
+      26,
+      76,
+      209,
+      154
+    ]
+  },
+  {
+    "class": "cascode",
+    "confidence": 0.4802509546279907,
+    "bbox": [
+      276,
+      141,
+      329,
+      250
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 148,
+    "y": 184,
+    "net_id": 4
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 148,
+    "y": 213,
+    "net_id": 18
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 199,
+    "y": 217,
+    "net_id": 19
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 272,
+    "y": 211,
+    "net_id": 16
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 270,
+    "y": 183,
+    "net_id": 3
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 270,
+    "y": 208,
+    "net_id": 16
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 118,
+    "y": 183,
+    "net_id": 4
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 118,
+    "y": 209,
+    "net_id": 15
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 116,
+    "y": 212,
+    "net_id": 15
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 270,
+    "y": 43,
+    "net_id": 1
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 148,
+    "y": 217,
+    "net_id": 18
+  }
+]

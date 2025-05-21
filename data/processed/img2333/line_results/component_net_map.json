@@ -1,0 +1,26 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 303,
+    "y": 180,
+    "net_id": 12
+  },
+  {
+    "component": "AC_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 200,
+    "y": 218,
+    "net_id": 12
+  },
+  {
+    "component": "AC_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 200,
+    "y": 253,
+    "net_id": 14
+  }
+]

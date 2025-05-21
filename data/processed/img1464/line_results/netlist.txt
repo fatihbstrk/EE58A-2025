@@ -1,0 +1,5 @@
+NET4: Current_Source.pin0
+NET7: Capacitor.pin2, Capacitor.pin2, Capacitor.pin3, Capacitor.pin3, Current_Source.pin1
+NET20: Capacitor.pin1
+NET21: Capacitor.pin1
+NET27: Resistor.pin1, Ground.pin0

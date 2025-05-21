@@ -1,0 +1,11 @@
+NET4: Resistor.pin0
+NET5: Resistor.pin3
+NET7: Resistor.pin1
+NET13: BJT.pin2, Ground.pin0
+NET14: BJT.pin3, DC_Source.pin0
+NET20: Resistor.pin0
+NET21: Resistor.pin0
+NET23: Ground.pin0, DC_Source.pin1
+NET30: Resistor.pin1, Resistor.pin1, Current_Source.pin0, Current_Source.pin0
+NET31: Ground.pin0, Current_Source.pin1, Current_Source.pin1
+NET32: Ground.pin1

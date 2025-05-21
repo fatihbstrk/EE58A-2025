@@ -1,0 +1,10 @@
+[
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 227,
+    "y": 90,
+    "net_id": 2
+  }
+]

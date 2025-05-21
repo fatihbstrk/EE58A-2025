@@ -1,0 +1,2 @@
+NET12: MOSFET.pin1, AC_Source.pin0
+NET14: AC_Source.pin1

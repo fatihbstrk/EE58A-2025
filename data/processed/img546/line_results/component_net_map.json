@@ -1,0 +1,154 @@
+[
+  {
+    "component": "Capacitor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 114,
+    "y": 119,
+    "net_id": 10
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 106,
+    "y": 132,
+    "net_id": 5
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 121,
+    "y": 132,
+    "net_id": 5
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 296,
+    "y": 132,
+    "net_id": 11
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 288,
+    "y": 145,
+    "net_id": 5
+  },
+  {
+    "component": "Capacitor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 303,
+    "y": 145,
+    "net_id": 12
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 256,
+    "y": 27,
+    "net_id": 2
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 256,
+    "y": 53,
+    "net_id": 5
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 266,
+    "y": 40,
+    "net_id": 4
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 203,
+    "y": 238,
+    "net_id": 5
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 203,
+    "y": 263,
+    "net_id": 33
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 214,
+    "y": 250,
+    "net_id": 32
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 253,
+    "y": 206,
+    "net_id": 26
+  },
+  {
+    "component": "MOSFET",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 274,
+    "y": 206,
+    "net_id": 12
+  },
+  {
+    "component": "AC_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 150,
+    "y": 28,
+    "net_id": 2
+  },
+  {
+    "component": "AC_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 150,
+    "y": 52,
+    "net_id": 5
+  },
+  {
+    "component": "AC_Source",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 161,
+    "y": 40,
+    "net_id": 3
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 204,
+    "y": 266,
+    "net_id": 33
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 204,
+    "y": 267,
+    "net_id": 33
+  }
+]

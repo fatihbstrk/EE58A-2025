@@ -1,0 +1,74 @@
+[
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 268,
+    "y": 134,
+    "net_id": 5
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 236,
+    "y": 43,
+    "net_id": 1
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 236,
+    "y": 83,
+    "net_id": 2
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 102,
+    "y": 94,
+    "net_id": 1
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 102,
+    "y": 141,
+    "net_id": 6
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 101,
+    "y": 240,
+    "net_id": 8
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 236,
+    "y": 240,
+    "net_id": 9
+  },
+  {
+    "component": "BJT",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 112,
+    "y": 195,
+    "net_id": 6
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 136,
+    "y": 220,
+    "net_id": 6
+  }
+]

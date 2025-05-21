@@ -1,0 +1,92 @@
+[
+    {
+        "label": "Capacitor",
+        "bbox": [
+            189,
+            53,
+            204,
+            74
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            181,
+            248,
+            195,
+            272
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            117,
+            130,
+            136,
+            153
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            181,
+            192,
+            196,
+            214
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            193,
+            268,
+            211,
+            292
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            45,
+            152,
+            65,
+            170
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            198,
+            129,
+            220,
+            155
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            189,
+            108,
+            203,
+            131
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            301,
+            109,
+            314,
+            132
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            34,
+            172,
+            53,
+            195
+        ]
+    }
+]

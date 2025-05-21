@@ -1,0 +1,22 @@
+[
+  {
+    "class": "current_mirror",
+    "confidence": 0.8864500522613525,
+    "bbox": [
+      69,
+      113,
+      273,
+      197
+    ]
+  },
+  {
+    "class": "current_mirror",
+    "confidence": 0.8638521432876587,
+    "bbox": [
+      68,
+      28,
+      278,
+      111
+    ]
+  }
+]

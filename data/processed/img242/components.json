@@ -1,0 +1,101 @@
+[
+    {
+        "label": "Capacitor",
+        "bbox": [
+            319,
+            153,
+            348,
+            172
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            49,
+            92,
+            78,
+            122
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            264,
+            146,
+            277,
+            170
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            322,
+            180,
+            347,
+            199
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            367,
+            182,
+            391,
+            199
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            48,
+            93,
+            78,
+            122
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            132,
+            91,
+            159,
+            123
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            91,
+            35,
+            118,
+            60
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            132,
+            91,
+            160,
+            123
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            200,
+            145,
+            222,
+            171
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            273,
+            240,
+            298,
+            264
+        ]
+    }
+]

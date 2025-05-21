@@ -1,0 +1,5 @@
+NET8: Capacitor.pin2
+NET15: Capacitor.pin2
+NET30: Capacitor.pin2
+NET36: Capacitor.pin2
+NET42: Ground.pin0

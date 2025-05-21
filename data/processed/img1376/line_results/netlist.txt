@@ -1,0 +1,2 @@
+NET10: Capacitor.pin2
+NET13: Ground.pin0

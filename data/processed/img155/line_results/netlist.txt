@@ -1,0 +1,7 @@
+NET6: BJT.pin3, BJT.pin2
+NET7: BJT.pin2, BJT.pin3
+NET8: BJT.pin3
+NET12: BJT.pin2
+NET20: BJT.pin2, BJT.pin3
+NET21: BJT.pin3
+NET22: Ground.pin0

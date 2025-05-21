@@ -1,0 +1,173 @@
+[
+    {
+        "label": "Capacitor",
+        "bbox": [
+            257,
+            76,
+            271,
+            101
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            336,
+            76,
+            351,
+            101
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            128,
+            221,
+            143,
+            248
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            51,
+            183,
+            65,
+            210
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            256,
+            25,
+            271,
+            53
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            186,
+            221,
+            201,
+            249
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            282,
+            201,
+            298,
+            227
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            33,
+            124,
+            56,
+            153
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            335,
+            162,
+            362,
+            189
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            36,
+            250,
+            56,
+            280
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            266,
+            229,
+            286,
+            264
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            347,
+            229,
+            366,
+            264
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            337,
+            26,
+            351,
+            53
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            256,
+            162,
+            276,
+            192
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            24,
+            221,
+            42,
+            250
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            172,
+            251,
+            189,
+            274
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            141,
+            250,
+            159,
+            274
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            178,
+            221,
+            201,
+            249
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            119,
+            131,
+            143,
+            161
+        ]
+    }
+]

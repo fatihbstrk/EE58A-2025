@@ -1,4 +1,13 @@
-NET0: 0, 3, 5, 13, 14
-NET1: 2
-NET2: 1, 6, 7, 8, 9, 11, 12, 15
-NET3: 4, 10
+NET3: Resistor.pin0, Resistor.pin0, Current_Source.pin0
+NET4: Resistor.pin3
+NET7: Resistor.pin2
+NET8: Resistor.pin1
+NET9: Resistor.pin1
+NET17: MOSFET.pin2, MOSFET.pin3, Current_Source.pin1
+NET22: Ground.pin0
+NET25: MOSFET.pin3
+NET28: MOSFET.pin2
+NET41: Ground.pin0
+NET42: Ground.pin0
+NET48: MOSFET.pin3
+NET49: MOSFET.pin2

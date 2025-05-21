@@ -1,0 +1,5 @@
+NET2: MOSFET.pin3, MOSFET.pin2
+NET8: MOSFET.pin2
+NET9: MOSFET.pin3
+NET14: Ground.pin0
+NET15: Ground.pin0

@@ -1,0 +1,6 @@
+NET2: BJT.pin2
+NET12: BJT.pin2
+NET13: BJT.pin3
+NET17: Current_Source.pin0
+NET19: Ground.pin0
+NET21: Current_Source.pin1, Ground.pin0

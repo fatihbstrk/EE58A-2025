@@ -1,0 +1,1 @@
+NET3: MOSFET.pin2, MOSFET.pin2

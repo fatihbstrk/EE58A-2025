@@ -1,0 +1,4 @@
+NET3: Capacitor.pin2
+NET6: Capacitor.pin3
+NET13: MOSFET.pin2
+NET16: MOSFET.pin3

@@ -1,0 +1,16 @@
+NET4: BJT.pin0
+NET5: BJT.pin2, BJT.pin3
+NET6: BJT.pin2
+NET8: BJT.pin2
+NET9: BJT.pin3
+NET10: BJT.pin3
+NET19: Ground.pin0
+NET21: BJT.pin2
+NET22: BJT.pin3, Battery.pin0, BJT.pin2
+NET26: Battery.pin3
+NET30: Battery.pin1
+NET31: BJT.pin3
+NET32: BJT.pin2
+NET33: BJT.pin2
+NET34: BJT.pin3, Ground.pin0
+NET44: Ground.pin0

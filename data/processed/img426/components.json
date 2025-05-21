@@ -1,0 +1,137 @@
+[
+    {
+        "label": "Capacitor",
+        "bbox": [
+            291,
+            156,
+            309,
+            187
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            306,
+            216,
+            330,
+            253
+        ]
+    },
+    {
+        "label": "Resistor",
+        "bbox": [
+            256,
+            160,
+            281,
+            184
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            90,
+            127,
+            115,
+            165
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            336,
+            138,
+            360,
+            161
+        ]
+    },
+    {
+        "label": "Ground",
+        "bbox": [
+            339,
+            187,
+            360,
+            213
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            159,
+            217,
+            184,
+            254
+        ]
+    },
+    {
+        "label": "Current_Source",
+        "bbox": [
+            28,
+            211,
+            50,
+            242
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            158,
+            217,
+            184,
+            255
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            126,
+            44,
+            149,
+            82
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            174,
+            128,
+            198,
+            164
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            35,
+            45,
+            57,
+            81
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            35,
+            45,
+            57,
+            81
+        ]
+    },
+    {
+        "label": "MOSFET",
+        "bbox": [
+            306,
+            46,
+            330,
+            83
+        ]
+    },
+    {
+        "label": "Capacitor",
+        "bbox": [
+            306,
+            48,
+            331,
+            83
+        ]
+    }
+]

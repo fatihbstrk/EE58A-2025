@@ -1,0 +1,10 @@
+[
+  {
+    "component": "MOSFET",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 148,
+    "y": 182,
+    "net_id": 9
+  }
+]

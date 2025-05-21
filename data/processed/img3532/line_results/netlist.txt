@@ -1,0 +1,10 @@
+NET6: Capacitor.pin2, Resistor.pin1
+NET14: Current_Source.pin0, Capacitor.pin2
+NET16: DC_Source.pin0
+NET18: MOSFET.pin3
+NET20: MOSFET.pin2
+NET29: Ground.pin0
+NET30: Ground.pin0
+NET33: DC_Source.pin3
+NET34: Current_Source.pin3
+NET38: Current_Source.pin1, DC_Source.pin1

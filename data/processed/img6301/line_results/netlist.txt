@@ -1,1 +1,1 @@
-NET0: 0, 1
+NET1: Battery.pin0, Inductor.pin1

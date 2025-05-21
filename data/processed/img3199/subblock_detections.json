@@ -1,0 +1,62 @@
+[
+  {
+    "class": "current_mirror",
+    "confidence": 0.8833224773406982,
+    "bbox": [
+      92,
+      82,
+      177,
+      159
+    ]
+  },
+  {
+    "class": "current_mirror",
+    "confidence": 0.8622452616691589,
+    "bbox": [
+      89,
+      107,
+      178,
+      192
+    ]
+  },
+  {
+    "class": "current_mirror",
+    "confidence": 0.8306217789649963,
+    "bbox": [
+      206,
+      141,
+      286,
+      195
+    ]
+  },
+  {
+    "class": "current_mirror",
+    "confidence": 0.8050021529197693,
+    "bbox": [
+      88,
+      59,
+      178,
+      155
+    ]
+  },
+  {
+    "class": "current_mirror",
+    "confidence": 0.7650873064994812,
+    "bbox": [
+      89,
+      20,
+      178,
+      96
+    ]
+  },
+  {
+    "class": "current_mirror",
+    "confidence": 0.7202669382095337,
+    "bbox": [
+      88,
+      35,
+      178,
+      123
+    ]
+  }
+]

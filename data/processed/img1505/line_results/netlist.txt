@@ -1,0 +1,18 @@
+NET4: Current_Source.pin0, Current_Source.pin0
+NET11: Current_Source.pin2
+NET12: Current_Source.pin3
+NET13: Current_Source.pin2
+NET15: Current_Source.pin1
+NET19: Current_Source.pin1
+NET22: BJT.pin0
+NET23: BJT.pin0
+NET32: BJT.pin2
+NET33: BJT.pin3
+NET41: Current_Source.pin0
+NET42: BJT.pin1
+NET43: BJT.pin1
+NET48: Current_Source.pin2
+NET49: Ground.pin0, Current_Source.pin1
+NET50: Ground.pin2
+NET51: Ground.pin3
+NET52: Ground.pin1

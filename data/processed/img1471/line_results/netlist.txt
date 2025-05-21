@@ -1,0 +1,4 @@
+NET11: BJT.pin2
+NET16: BJT.pin3
+NET17: BJT.pin2
+NET21: BJT.pin2

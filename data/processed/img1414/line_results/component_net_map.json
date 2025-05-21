@@ -1,0 +1,34 @@
+[
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 208,
+    "y": 190,
+    "net_id": 13
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 123,
+    "y": 190,
+    "net_id": 11
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 179,
+    "y": 190,
+    "net_id": 13
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 252,
+    "y": 213,
+    "net_id": 14
+  }
+]

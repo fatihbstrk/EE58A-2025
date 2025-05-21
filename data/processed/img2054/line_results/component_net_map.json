@@ -1,0 +1,10 @@
+[
+  {
+    "component": "Capacitor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 137,
+    "y": 180,
+    "net_id": 9
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 139,
+    "y": 182,
+    "net_id": 17
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 192,
+    "y": 182,
+    "net_id": 16
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 136,
+    "y": 234,
+    "net_id": 21
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 136,
+    "y": 112,
+    "net_id": 11
+  }
+]

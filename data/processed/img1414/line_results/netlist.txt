@@ -1,0 +1,3 @@
+NET11: Resistor.pin2
+NET13: BJT.pin2, Resistor.pin3
+NET14: Ground.pin0

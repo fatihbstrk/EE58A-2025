@@ -1,0 +1,4 @@
+NET1: Current_Source.pin0
+NET7: Current_Source.pin1, Capacitor.pin2, Capacitor.pin2
+NET44: Ground.pin0
+NET52: Ground.pin0

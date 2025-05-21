@@ -1,0 +1,7 @@
+* Auto-generated SPICE netlist
+.include technology_models.lib
+XMOSFET_pin2 NET3 dummy_subckt
+XMOSFET_pin2 NET6 dummy_subckt
+XMOSFET_pin2 NET8 dummy_subckt
+XGround_pin0 NET10 dummy_subckt
+.end

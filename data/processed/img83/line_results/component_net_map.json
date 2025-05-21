@@ -1,0 +1,154 @@
+[
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 256,
+    "y": 157,
+    "net_id": 21
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 256,
+    "y": 189,
+    "net_id": 30
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 88,
+    "y": 126,
+    "net_id": 13
+  },
+  {
+    "component": "BJT",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 291,
+    "y": 126,
+    "net_id": 14
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 120,
+    "y": 158,
+    "net_id": 20
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 120,
+    "y": 189,
+    "net_id": 30
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 190,
+    "y": 261,
+    "net_id": 31
+  },
+  {
+    "component": "Ground",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 190,
+    "y": 280,
+    "net_id": 32
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 118,
+    "y": 39,
+    "net_id": 4
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 118,
+    "y": 73,
+    "net_id": 7
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 3,
+    "pin_side": "right",
+    "x": 133,
+    "y": 56,
+    "net_id": 5
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 348,
+    "y": 196,
+    "net_id": 23
+  },
+  {
+    "component": "Ground",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 28,
+    "y": 197,
+    "net_id": 13
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 188,
+    "y": 224,
+    "net_id": 30
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 188,
+    "y": 253,
+    "net_id": 31
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 188,
+    "y": 224,
+    "net_id": 30
+  },
+  {
+    "component": "Current_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 188,
+    "y": 253,
+    "net_id": 31
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 347,
+    "y": 143,
+    "net_id": 14
+  },
+  {
+    "component": "DC_Source",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 347,
+    "y": 171,
+    "net_id": 23
+  }
+]

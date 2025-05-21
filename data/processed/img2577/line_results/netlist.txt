@@ -1,0 +1,8 @@
+NET1: Resistor.pin0, Resistor.pin0
+NET2: Resistor.pin1
+NET3: Resistor.pin1
+NET5: MOSFET.pin2, AC_Source.pin0
+NET6: MOSFET.pin3, Ground.pin0
+NET7: Current_Source.pin0
+NET9: AC_Source.pin1, Ground.pin0
+NET12: Ground.pin0, Current_Source.pin1

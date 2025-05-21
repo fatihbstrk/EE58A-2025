@@ -1,0 +1,50 @@
+[
+  {
+    "component": "BJT",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 132,
+    "y": 102,
+    "net_id": 20
+  },
+  {
+    "component": "BJT",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 243,
+    "y": 130,
+    "net_id": 20
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 121,
+    "y": 99,
+    "net_id": 20
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 2,
+    "pin_side": "left",
+    "x": 93,
+    "y": 69,
+    "net_id": 10
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 0,
+    "pin_side": "top",
+    "x": 290,
+    "y": 159,
+    "net_id": 21
+  },
+  {
+    "component": "Resistor",
+    "pin_index": 1,
+    "pin_side": "bottom",
+    "x": 290,
+    "y": 218,
+    "net_id": 22
+  }
+]

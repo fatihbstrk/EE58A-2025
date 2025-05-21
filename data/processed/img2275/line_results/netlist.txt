@@ -1,0 +1,3 @@
+NET10: Capacitor.pin2, MOSFET.pin2
+NET16: Capacitor.pin0
+NET19: Capacitor.pin2
